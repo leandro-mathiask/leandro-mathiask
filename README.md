@@ -24,7 +24,7 @@
  
 <h1 align="center"> Social </h1>
 <p align="center" >
-<a href="www.linkedin.com/in/leandro-mathias/" target="_blank">
+<a href="https://www.linkedin.com/in/leandro-mathias-lm/" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
 </a>
 <a href="https://www.instagram.com/leandro.mathias_/" target="_blank">
