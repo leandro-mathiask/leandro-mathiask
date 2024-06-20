@@ -24,10 +24,10 @@
  
 <h1 align="center"> Social </h1>
 <p align="center" >
-<a href="www.linkedin.com/in/leandro-mathias-0b805319a" target="_blank">
+<a href="www.linkedin.com/in/leandro-mathias/" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
 </a>
-<a href="https://www.instagram.com/leandro.mathias_/ target="_blank">
+<a href="https://www.instagram.com/leandro.mathias_/" target="_blank">
 <img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"></a>
 <a href="mailto:leandro.mathiaslm@gmail.com" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
