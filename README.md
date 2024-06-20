@@ -1,6 +1,14 @@
 ## Bem-vindo(a) ao perfil do Leandro Mathias 😁
 
- <div>
+<h1 align="center"> Sobre Mim </h1>
+<ul align="left">
+ <li>Gosto muito de Programação, Bebo muito café, Amo jogos FPS</li>
+ <li>🖥Estudante de Desenvolvimento Web: Full-Stack</li>
+ <li>🖥Estudando no <a href="https://github.com/devemdobro" target="_blank">DevQuest</a></li>
+ <li>Atualmente estou em transição de carreira para o Desenvolvimento Web full stack</li>
+ <li>🎮Amo jogar Hunt:Showdown</li>
+</ul>
+<div>
    <a href="https://github.com/leandro-mathiask">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-mathiask&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-mathiask&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -14,11 +22,15 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/leandro.mathias_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/j7ekBczJHG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leandro.mathiaslm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<h1 align="center"> Social </h1>
+<p align="center" >
+<a href="www.linkedin.com/in/leandro-mathias-0b805319a" target="_blank">
+<img height="50px" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
+</a>
+<a href="https://www.instagram.com/leandro.mathias_/ target="_blank">
+<img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"></a>
+<a href="mailto:leandro.mathiaslm@gmail.com" target="_blank">
+<img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
+</a>
+</p>
+<br/><br/>
